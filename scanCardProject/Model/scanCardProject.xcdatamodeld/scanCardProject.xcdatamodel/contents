@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="CustomerItem" representedClassName="CustomerItem" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="comment" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="company" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="department" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="email" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="fax" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="mobilePhone" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="name" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="timeStamp" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="title" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+        <attribute name="updater" optional="YES" attributeType="String"/>
+        <attribute name="workPhone" optional="YES" attributeType="Binary" valueTransformerName="NSSecureUnarchiveFromDataTransformerName"/>
+    </entity>
+    <elements>
+        <element name="CustomerItem" positionX="-63" positionY="-18" width="128" height="209"/>
+    </elements>
+</model>

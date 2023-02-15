@@ -1,0 +1,6 @@
+framework module Pods_scanCardProjectTests {
+  umbrella header "Pods-scanCardProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
